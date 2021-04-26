@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\user\source\repos\Lua C DLL\Lua C DLL\Offsets.h(106,45): warning C4244: 'argument': conversion from 'DWORD' to 'BYTE', possible loss of data
+C:\Users\user\source\repos\Lua C DLL\Lua C DLL\Main.cpp(7,32): warning C4081: expected 'newline'; found '.'
+C:\Users\user\source\repos\Lua C DLL\Lua C DLL\Parser.h(23): warning C4715: 'FindFirstClass': not all control paths return a value
+  Lua C DLL.vcxproj -> C:\Users\user\source\repos\Lua C DLL\Debug\Lua C DLL.dll
