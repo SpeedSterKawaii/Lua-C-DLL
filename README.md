@@ -11,3 +11,5 @@ Do not release this, it is for studying purposes, i hope someone fixes this.
 
 Give credits to speeedsterkawai for source.
 Give credits to mellonyt for hot ass addies.
+
+# ITS HALF FINISHED U DUMB ASS
